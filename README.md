@@ -1,5 +1,17 @@
 # thomaspedro_bio
 
+
+## Thomas
+
+### Bio: 
+I am 35 years old and I live in Leipzig.
+
+### Recipe:
+Mix everything together
+
+### Defintion of a word:
+word: a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.
+
 Pedro,45 years old, marketing professional, former swimming regional champ, a good friend, son and dad. 
 
 ## Recipe
@@ -12,4 +24,5 @@ Method
 
 ## Webdeveloper Definition
 someone whose job is to create websites: 
+
 
